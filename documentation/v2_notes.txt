@@ -1,0 +1,31 @@
+changes to be made on v2:
+
+INNARDS:
+ - lower the placement of the controller on the x-bracket screen-mount
+ - best place to mount the pi?
+    - it can be mounted somewhere on the shelves perhaps, using the spokes/tape method used for the lcd controller
+    - pi can go on top of bottom shelf but will need to be elevated to make room for the nuts from the controller
+ - power supply (battery)
+    - could it be held between a gap in the bottom shelf and a brace on the bottom inside of the frame?
+ - shelves can be a little deeper
+    - or they can just have the "end-stops" that work or are positioned correctly?
+ - top shelf - redesign to accommodate new speakers
+ - mount the speaker effectively
+    - consider a tunnel/splitter system thing
+
+FRONT/FACE PLATE:
+ - front face plate could fit a little better
+ - move the mount for the screen controller to the back of the faceplate, under the horizontal port (spokes/tape mthd)
+
+BACK PLATE:
+ - best way to mount the rear plates?
+    - strong magnets would work, but would need to be JB welded or similar into the places
+    - squares in the inside corners of the framem, with metal on the back (or front) and the back plate can have the magnets sticking out/braced inside
+
+ARMS & LEGS:
+ - better way to attach these? perhaps utilizing the newer/larger magnets?
+
+WIRING:
+ - how to wire both speakers?
+    - maybe just do one speaker for him, but print a tunnel/splitter?
+    - take it apart and see if it can be minimalized at all
