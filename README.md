@@ -1,4 +1,8 @@
 # bmo
 
 
-Testing out the github clone/link on my pc.
+Welcome to the repository!
+
+I'll be posting print files & documentation in here soon.
+
+## Be sure to watch to get updates! :D
